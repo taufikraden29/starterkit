@@ -1,4 +1,5 @@
 {
-  "name": "starterKit",
-  "displayName": "starterKit"
+	"name": "starterKit",
+	"displayName": "starterKit",
+	"backgroundColor": "#2410f"
 }
